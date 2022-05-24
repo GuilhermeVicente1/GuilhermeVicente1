@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Vicente</h1>
-<h3 align="center">Um entusiasta do mundo da análise de dados</h3>
+<h3 align="center">Graduado em contabilidade e entusiasta de análise de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python**
 
