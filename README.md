@@ -3,7 +3,6 @@
 
 - 🌱 Atualmente estou aprendendo **Python**
 
-- 😎 Me pergunte sobre **Power BI, SQL e Excel**
 
 
 
