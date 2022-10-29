@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guilherme Vicente</h1>
+<h1 align="center">Olá 👋, I'm Guilherme Vicente</h1>
 <h3 align="center"> Mergulhando no mundo da análise de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python**
