@@ -1,5 +1,5 @@
 ## Guilherme Vicente
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="50" height="50" />
           
 <h3 align="center"> Mergulhando no mundo da análise de dados</h3>
 
