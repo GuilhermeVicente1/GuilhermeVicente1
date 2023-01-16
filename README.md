@@ -1,5 +1,8 @@
-<h1 align="center">Olá mundo, sou Guilherme Vicente. 👋👋  </h1>
+## Guilherme Vicente
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+          
 <h3 align="center"> Mergulhando no mundo da análise de dados</h3>
+
 
 <div>
 <a href="https://github.com/guilhermevicente11">
