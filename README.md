@@ -1,7 +1,7 @@
 ## Guilherme Vicente
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70" height="70" />
           
-<h3 align="center"> Mergulhando no mundo da análise de dados</h3>
+<a href="https://www.linkedin.com/in/guilhermevicentecp/" target="_blank"> <h3 align="center"> Mergulhando no mundo da análise de dados</h3>
 
 
 <div>
@@ -12,5 +12,5 @@
 
 ## Ferramentas que possuo conhecimento:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" /> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="60" height="60" />
 
