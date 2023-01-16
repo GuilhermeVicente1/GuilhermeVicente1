@@ -1,9 +1,9 @@
 ## Guilherme Vicente
          
-<a href="https://www.linkedin.com/in/guilhermevicentecp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" />
+<a href="https://www.linkedin.com/in/guilhermevicentecp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
           
 ## Olá, mundo !
-Tenho 26 anos, sou de Recife e um curioso por ciência de dados. Gosto de realizar análises exploratórias, gerar visualizações de dados com intuito de sempre explicar da maneira mais clara o conteúdo do meu banco de dados/dataset.
+Tenho 26 anos, sou de Recife e curioso por ciência de dados. Gosto de realizar análises exploratórias e gerar visualizações gráficas de dados. 
  
 ## 🖥️Tecnologias e Ferramentas:
 
