@@ -3,11 +3,15 @@
 <a href="https://www.linkedin.com/in/guilhermevicentecp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
           
 ## Olá, mundo !
-Tenho 26 anos, sou de Recife e curioso por ciência de dados. Gosto de realizar análises exploratórias e gerar visualizações gráficas de dados. 
+Tenho 26 anos, sou de Recife e estudante ciência de dados. Gosto de realizar análises exploratórias de dados e gerar visualizações, para obter as melhores informações de um banco de dados. 
  
 ## 🖥️Tecnologias e Ferramentas:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" /> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" /> <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="60" height="60"/>
+
+          
+          
+          
           
 👨‍🎓: Sou gradudo em Ciências Contábeis pela Universidade Federal De Pernambuco.
           
