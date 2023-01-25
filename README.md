@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/guilhermevicentecp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
           
 ## Olá, mundo !
-Tenho 26 anos, sou de Recife e estudante ciência de dados. Gosto de realizar análises exploratórias de dados e gerar visualizações, para obter as melhores informações de um banco de dados. 
+Bem-vindo ao meu perfil do Github! Sou entusiasta de ciência de dados com práticas em manipulação e visualização de dados usando bibliotecas do Python como Pandas, Seaborn e Matplotlib. Tenho experiência em análise exploratória de dados e visualização de dados e consigo extrair insights valiosos para apresentá-los de maneira clara. Seja construindo modelos preditivos ou criando visualizações interativas, gosto de encontrar novas maneiras de entender e comunicar dados. Sinta-se à vontade para conferir meus projetos e contribuições!" 
  
 ## 🖥️Tecnologias e Ferramentas:
 
