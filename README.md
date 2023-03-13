@@ -15,7 +15,7 @@ Sou entusiasta de ciência de dados com práticas em manipulação e visualizaç
           
 👨‍🎓: Sou gradudo em Ciências Contábeis pela Universidade Federal De Pernambuco.
           
-📚: Aluno do Diversidade Tech, curso de formação de Python & Dados da Ada em parceria com a Suzano.
+📚: Aluno formado do Diversidade Tech, curso de formação de Python & Dados da Ada em parceria com a Suzano.
  
 
 
